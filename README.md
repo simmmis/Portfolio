@@ -26,6 +26,7 @@ Mobile strategy game on Unity3D
 
 <img src="/screenshots/space_dominion1.png" width="400"/> <img src="/screenshots/space_dominion2.png" width="400"/>
 <img src="/screenshots/space_dominion3.png" width="400"/> <img src="/screenshots/space_dominion4.png" width="400"/>
+<img src="/gif/Space_Dominion_gif3_min.gif" width="400"/> <img src="/gif/Space_Dominion_gif4_min.gif" width="400"/>
 
 
 ## Guess The Melody
